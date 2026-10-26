@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="in/maheshika1964">
+  <a href="https://www.linkedin.com/in/maheshika1964/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
   </a>
   &nbsp;
